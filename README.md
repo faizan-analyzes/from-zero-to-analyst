@@ -71,7 +71,15 @@ To become a job-ready Data Analyst with strong foundations in:
 
 ---
 
+## 📌 Proof of Learning
+For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
+I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
 
+<p align="left">
+  <a href="www.linkedin.com/in/faizan-shaikh1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+  </a>
+</p>
 
 
 ## 📌 Connect with Me
