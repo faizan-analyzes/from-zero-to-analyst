@@ -1,7 +1,7 @@
 # Hi, I'm Faizan – Aspiring Data Analyst
 
-Welcome to my weekly learning journey in data analytics!  
-Each week, I’ll share what I’ve learned, practiced, and built as I move closer to my goal of becoming a skilled Data Analyst. 💻📊
+Welcome to my Daily learning journey in data analytics!  
+Each day, I’ll share what I’ve learned, practiced, and built as I move closer to my goal of becoming a skilled Data Analyst. 💻📊
 
 ---
 
@@ -16,18 +16,60 @@ To become a job-ready Data Analyst with strong foundations in:
 ---
 
 
-## 📅 My Weekly Progress
+# 🚀 SQL Learning Journey (Microsoft SQL Server + SSMS)
+---
 
-### ✅ Week 1: Python Basics
-- Learned about Variables and Data Types
-- Practiced Arithmetic, Comparison & Logical Operators
-- Understood Control Flow using if, elif, else
-- Implemented Loops: for and while
-- Solved multiple examples to strengthen logic
+## 📅 Day 1 – Getting Started
+
+**What I learned:**
+- Installed **Microsoft SQL Server** and **SSMS**
+- Understood the difference between SQL Server Configuration Manager and SSMS
+- Connected to the database engine and created my first database
+- Practiced basic SQL commands:
+  - `CREATE`
+  - `INSERT`
+  - `SELECT`
+  - `DISTINCT`
+
+> 💡 First day diving into database world — learned how to interact with SQL Server and execute basic queries.
 
 ---
 
+## 📅 Day 2 – Filtering & Organizing Data
 
+**What I learned:**
+- Filtering data using:
+  - `WHERE`
+  - `BETWEEN`
+  - `IN`
+- Logical operators:
+  - `AND`
+  - `OR`
+  - `NOT`
+- Sorting data using:
+  - `ORDER BY ASC`
+  - `ORDER BY DESC`
+- Continued practicing `INSERT` with more complex inputs
+
+> 📊 Learned how to extract meaningful results by filtering, combining conditions, and sorting data efficiently.
+
+---
+
+## 📅 Day 3 – Data Modification & Table Management
+
+**What I learned:**
+- Modifying data with:
+  - `UPDATE`
+  - `DELETE`
+- Managing tables with:
+  - `TRUNCATE`
+  - `DROP`
+- Aggregation function:
+  - `MAX()` – finding highest values in a column
+
+> ⚠️ Gained confidence in modifying and managing data while understanding the importance of using these commands carefully to avoid data loss.
+
+---
 
 
 
