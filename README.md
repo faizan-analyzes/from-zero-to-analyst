@@ -76,10 +76,11 @@ For a visual proof of this journey, including daily screen recordings and practi
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
 
 <p align="left">
-  <a href="www.linkedin.com/in/faizan-shaikh1" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button"/>
+  <a href="https://www.linkedin.com/in/faizan-shaikh1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 
 ## 📌 Connect with Me
