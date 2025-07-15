@@ -81,10 +81,15 @@ I’m documenting this to stay consistent and inspire other aspiring Data Analys
   </a>
 </p>
 
-
+---
 
 ## 📌 Connect with Me
-- www.linkedin.com/in/faizan-shaikh1
+<p align="left">
+  <a href="https://www.linkedin.com/in/faizan-shaikh1" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" alt="LinkedIn" style="border-radius: 50%; width:40px; height:40px;">
+  </a>
+</p>
+
 ---
 
 Thanks for visiting! Stay tuned for more weekly updates. 🚀  
