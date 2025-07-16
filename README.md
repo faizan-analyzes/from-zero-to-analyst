@@ -71,6 +71,22 @@ To become a job-ready Data Analyst with strong foundations in:
 
 ---
 
+## 📅 Day 4 – Aggregation & Grouping
+
+**What I learned:**
+- Aggregate functions for summarizing data:
+  - `MIN()`
+  - `SUM()`
+  - `AVG()`
+  - `COUNT()`
+- Grouping data with `GROUP BY`
+- Filtering grouped results using `HAVING`
+- Understood the key **difference between `WHERE` and `HAVING`**:
+  - `WHERE` filters rows **before** grouping
+  - `HAVING` filters groups **after** aggregation
+- Practiced multiple examples to strengthen understanding 💪
+
+
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
