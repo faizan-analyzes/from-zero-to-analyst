@@ -86,6 +86,24 @@ To become a job-ready Data Analyst with strong foundations in:
   - `HAVING` filters groups **after** aggregation
 - Practiced multiple examples to strengthen understanding 💪
 
+---
+
+## 📅 Day 5 – Mastering SQL Joins
+
+**What I learned:**
+- Explored different types of **SQL Joins** to combine data from multiple tables:
+  - `INNER JOIN` – shows only matching records from both tables
+  - `LEFT JOIN` – shows all records from the left table + matched records from the right
+  - `RIGHT JOIN` – shows all records from the right table + matched records from the left
+- Practiced real-world join scenarios like:
+  - Employees and their departments
+  - Customers and their orders
+  - Handling NULL values in join results
+- Learned how each join behaves with missing or unmatched data
+
+🧠 Understanding joins has opened up powerful ways to work with **relational data** — this is a must-have skill for any Data Analyst!
+
+---
 
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
