@@ -105,6 +105,30 @@ To become a job-ready Data Analyst with strong foundations in:
 
 ---
 
+## 📅 Day 6 – Advanced Joins & Pattern Matching
+
+**What I learned:**
+
+🔹 Explored **advanced join techniques**:
+- `LEFT ANTI JOIN` – retrieves rows from the left table **not** present in the right table
+- `RIGHT ANTI JOIN` – retrieves rows from the right table **not** present in the left table
+- `SELF JOIN` – used to join a table to itself (e.g., comparing employees with managers)
+
+🔹 Learned the use of:
+- `UNION` – combines result sets from two queries (removes duplicates)
+- `UNION ALL` – similar to `UNION` but **keeps duplicates**
+
+🔹 Deep-dived into **pattern matching** using the `LIKE` operator:
+- `%` – wildcard for any number of characters
+- `_` – wildcard for a single character
+
+🔍 Solved real-world examples with `LIKE`, such as:
+- Finding names starting with 'A'
+- Emails containing specific domains
+- Filtering records based on string patterns
+
+---
+
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
