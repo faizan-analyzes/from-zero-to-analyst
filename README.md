@@ -129,6 +129,60 @@ To become a job-ready Data Analyst with strong foundations in:
 
 ---
 
+## 📅 Day 7 – Nested CASE, Constraints & Query Execution Order
+
+**What I learned today:**
+
+🔸 **Nested CASE Statement**  
+- Learned how to use `CASE` inside another `CASE` to handle complex conditions  
+- Great for assigning categories, flags, or labels based on multiple logic branches  
+
+Example:
+SELECT Name,
+       CASE 
+           WHEN Salary > 80000 THEN 'High'
+           WHEN Salary BETWEEN 50000 AND 80000 THEN 
+               CASE 
+                   WHEN Department = 'IT' THEN 'Medium - IT'
+                   ELSE 'Medium - Other'
+               END
+           ELSE 'Low'
+       END AS Salary_Level
+FROM Employees;
+🔸 SQL Constraints
+
+NOT NULL – ensures a column cannot have NULL values
+
+UNIQUE – ensures all values are different
+
+PRIMARY KEY – uniquely identifies each row
+
+FOREIGN KEY – links to a primary key in another table
+
+CHECK – enforces a condition
+
+DEFAULT – sets a default value for a column
+
+🔸 SQL Query Execution Order (Behind the Scenes)
+Understanding the logical processing order of SQL statements:
+
+FROM
+
+JOIN
+
+WHERE
+
+GROUP BY
+
+HAVING
+
+SELECT
+
+ORDER BY
+
+This helped me write better-optimized and logically structured queries. 🧠
+
+---
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
