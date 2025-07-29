@@ -171,6 +171,26 @@ ORDER BY
 This helped me write better-optimized and logically structured queries. 🧠
 
 ---
+
+📅 **Day 8: Strengthening SQL with 20 Practice Examples**
+Today I dedicated my time to solving 20 SQL examples that covered various concepts I've learned so far. This practice helped me:
+
+✅ Strengthen my understanding of SQL queries
+✅ Apply real-world logic to filtering, joining, and aggregating data
+✅ Boost my confidence with structured problem-solving in SQL
+
+Topics reinforced through examples:
+
+SELECT, WHERE, ORDER BY, GROUP BY, HAVING
+
+Aggregate functions like MAX, SUM, COUNT, AVG
+
+Pattern matching using LIKE
+
+📝 Solving practical problems is the best way to sharpen your SQL mindset — and that’s exactly what today was all about!
+
+---
+
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
