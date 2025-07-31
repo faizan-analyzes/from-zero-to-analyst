@@ -191,6 +191,20 @@ Pattern matching using LIKE
 
 ---
 
+## 📅 Day 9 – Practicing SQL Joins
+
+**Topics Covered:**
+- ✅ INNER JOIN
+- ✅ LEFT JOIN
+- ✅ RIGHT JOIN
+
+**Highlights:**
+- Solved multiple real-world SQL examples focused on different join types
+- Strengthened understanding of how tables relate and interact
+- Practiced handling incomplete or mismatched data between table
+
+---
+
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
