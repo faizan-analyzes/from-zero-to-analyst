@@ -173,6 +173,7 @@ This helped me write better-optimized and logically structured queries. 🧠
 ---
 
 📅 **Day 8: Strengthening SQL with 20 Practice Examples**
+
 Today I dedicated my time to solving 20 SQL examples that covered various concepts I've learned so far. This practice helped me:
 
 ✅ Strengthen my understanding of SQL queries
