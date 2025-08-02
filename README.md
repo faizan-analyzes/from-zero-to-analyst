@@ -206,6 +206,21 @@ Pattern matching using LIKE
 
 ---
 
+## 📅 Day 10 – Advanced SQL Functions & Window Functions
+
+**Functions Learned Today:**
+- ✅ RANK(), DENSE_RANK(), ROW_NUMBER()
+- ✅ LEAD(), LAG()
+- ✅ FIRST_VALUE(), LAST_VALUE()
+- ✅ ISNULL(), COALESCE()
+
+**Learning Highlights:**
+- Understood how to assign rankings and row numbers within partitions
+- Practiced comparing current rows with previous/next using LEAD/LAG
+- Managed null values efficiently using ISNULL and COALESCE
+- Solved multiple query examples to apply theory into real-world cases
+
+---
 ## 📌 Proof of Learning
 For a visual proof of this journey, including daily screen recordings and practice demos, feel free to visit my LinkedIn profile where I regularly share my SQL learning updates.
 I’m documenting this to stay consistent and inspire other aspiring Data Analysts as well! 😊
