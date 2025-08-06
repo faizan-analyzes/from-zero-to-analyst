@@ -172,7 +172,7 @@ This helped me write better-optimized and logically structured queries. 🧠
 
 ---
 
-📅 **Day 8: Strengthening SQL with 20 Practice Examples**
+## 📅 **Day 8: Strengthening SQL with 20 Practice Examples**
 
 Today I dedicated my time to solving 20 SQL examples that covered various concepts I've learned so far. This practice helped me:
 
@@ -219,6 +219,22 @@ Pattern matching using LIKE
 - Practiced comparing current rows with previous/next using LEAD/LAG
 - Managed null values efficiently using ISNULL and COALESCE
 - Solved multiple query examples to apply theory into real-world cases
+
+---
+
+## 📅 SQL Interview Practice Day – Real-World Problem Solving
+
+**Interview Questions Solved:**
+- ✅ Find Nth Highest Salary
+- ✅ Reportee & Manager mapping using Self Joins
+- ✅ Deleting Duplicate Records
+- ✅ Additional real-world SQL interview problems
+
+**Learning Highlights:**
+- Strengthened skills in ranking functions and subqueries
+- Applied self-joins for hierarchical data problems
+- Practiced advanced DELETE queries with conditions
+- Improved query optimization for interview scenarios
 
 ---
 ## 📌 Proof of Learning
